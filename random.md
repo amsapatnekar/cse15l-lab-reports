@@ -1,1 +1,1 @@
-Hi1! This is a random file **:)**
+I am a current student at UCSD. This website entails my coursework for CSE15L.
