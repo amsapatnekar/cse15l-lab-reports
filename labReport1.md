@@ -1,6 +1,7 @@
 # Lab Report 1
 ## cd
 1. 'cd' without any argument provided no output as cd is used to change the current directory to the one specified with the argument. As there is no argument provided, there will not be an output.
+
 ![image](cdNoArg.png)   
 2. 'cd' with a directory as an argument changes the directory the terminal is in, allowing you to use files within that directory.
 ![image](cdDirectory.png)   
