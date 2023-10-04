@@ -1,10 +1,10 @@
 # Lab Report 1
 ## cd
-1. **cd** without any argument provided no output as **cd** changes the current directory to the one specified with the argument. As there is no argument provided, there won't be an output.
+1. **cd** without any argument provided no output as **cd** changes the current directory to the one specified with the argument. As there is no argument provided, there won't be an output.   
 ![image](cdNoArg.png)   
-2. **cd** with a directory as an argument changes the directory the terminal is in, allowing you to use files within that directory.
-![image](cdDirectory.png)   
-3. **cd** with a file as an argument provides an error message, as 'cd' only works with directories.
+  2. **cd** with a directory as an argument changes the directory the terminal is in, allowing you to use files within that directory.
+  ![image](cdDirectory.png)   
+  3. **cd** with a file as an argument provides an error message, as 'cd' only works with directories.
 ![image](cdFile.png)
 ## ls
 1. **ls** without an argument provides a list of the files and the messages folder within the lecture1 directory.
