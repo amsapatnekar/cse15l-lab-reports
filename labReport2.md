@@ -3,11 +3,11 @@
 ## Part 1
 ![image](project2Code.png) 
 ![image](website1.png) 
-For this screenshot, the handleRequest method was called, specifically the if block relating to add and "s". This method prints out the iteration of the number, as well as the given string in the query portion of the URL, in this case, **Hello**. The input is stored and gets added to as more Strings are added. 
+For this screenshot, the handleRequest method used the given URL as the argument. The method utilizes the if statements to check if the URL contains /add. Once it checked that the URL path does contain /add, it splits the query at the "=" and then checks if the characters before the = are an "s" or "count" In this case, as it was "s" it stores the parameters after the equal sign as a new string called **newString** and then increments the number by +1. It then appends the string **newString** to the existing string called **str** which, at this time, is blank. 
 
 ![image](website2.png) 
 
-In this image, we see the same method, handleRequest, being called. The same if block of code is called. In the output, we get to see that the previous input of **Hello** has been saved, and a new line has been created, where we are able to see our new input as well as the iteration it is on. 
+In this image, we see the same method, handleRequest, being called with the new URL passed as the argument—the same if block of code is called. Looking at the output, we can see that the returned string **str** shows both the results from our first input, as well as our new input, as well as representing the order of them with the proper number, saved under the **num** variable.
 
 
 ## Part 2
