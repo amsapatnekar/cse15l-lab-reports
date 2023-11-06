@@ -17,7 +17,7 @@ In this image, we see the same method, handleRequest, being called with the new 
 
 **Public Key**
 
-![image](publickey.png) 
+![image](publicKey.png) 
 
 **Passwordless Login**
 
