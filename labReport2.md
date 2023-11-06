@@ -13,11 +13,12 @@ In this image, we see the same method, handleRequest, being called with the new 
 ## Part 2
 **Private Key**
 
-![image](privateKey.png) 
+![image](publicKey.png) 
 
 **Public Key**
 
-![image](publicKey.png) 
+![image](privateKey.png) 
+
 
 **Passwordless Login**
 
