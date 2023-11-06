@@ -282,3 +282,5 @@ GAO
 
 ameyasapatnekar@Ameyas-MacBook-Air-2 technical % 
 ~~~~
+
+I used the pheonixnap website to help me find the most popular options for the less command. All writing was done myself based on what I learnt from this website. 
