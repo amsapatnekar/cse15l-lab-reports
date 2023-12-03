@@ -42,7 +42,7 @@ compiles the code
 ~~~~
 runs the code
 ## Step 6: Commit and push
-![image](Step6.png) 
+![image](Lab4Step6.png) 
 ~~~~
 <up><up><up><up><up><up><up><up><enter>
 ~~~~
@@ -51,8 +51,7 @@ finds the git add command in history
 <up><up><up><up><up><up><up><enter>
 ~~~~
 finds the git commit in history
-
-Run the tests, demonstrating that they fail
-Edit the code file to fix the failing test
-Run the tests, demonstrating that they now succeed
-Commit and push the resulting change to your Github account (you can pick any commit message!)
+~~~~
+<git push>
+~~~~
+pushes the commit to the shared repository. My ssh key does not work, howveer it would usually provide an image where 
