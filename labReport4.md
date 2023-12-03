@@ -54,4 +54,4 @@ finds the git commit in history
 ~~~~
 <git push>
 ~~~~
-pushes the commit to the shared repository. My ssh key does not work, howveer it would usually provide an image where 
+pushes the commit to the shared repository. 
