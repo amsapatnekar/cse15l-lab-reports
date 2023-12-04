@@ -1,10 +1,13 @@
 # Lab Report 5
 
 ## Part 1
+**Initial post to mesage board aasking for help with the week 6 lab's grade.sh file.**
+![image](EDPost.png) 
 
+**TA Response, and student response detailing how to fix the bug.**
 ![image](TAResponse.png) 
 
-![image](EDPost.png) 
+
 
 ## Part 2
 
